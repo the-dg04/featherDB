@@ -10,7 +10,7 @@ import (
 	"github.com/google/uuid"
 )
 
-var PORT int=6969
+var PORT int=6969 // Specify port here
 
 var data []map[string]string
 
