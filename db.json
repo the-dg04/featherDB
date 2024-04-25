@@ -1,71 +1,77 @@
 [
-  { "_id": "userfcf62ae8-5668-4ce1-a6ba-baf06f13810b", "name": "nigga 1" },
-  { "_id": "userab52b6d0-cc5e-453e-8f38-40f705eadf00", "name": "nigga 2" },
-  { "_id": "user199f5127-4648-439b-a58a-aa77181f986f", "name": "nigga 3" },
-  { "_id": "user2fadba28-a587-4855-b3ed-821219a6847b", "name": "nigga 5" },
   {
-    "_id": "user61d8eeaf-7874-4b43-bf0f-f46dae7e38b3",
-    "last name": "jamal",
-    "name": "nigga 6"
+    "_id": "user083c5cdf-4fda-4116-bbed-7f46d786b855",
+    "first name": "steph",
+    "last name": "curry"
   },
   {
-    "_id": "user2829a46a-db91-46b3-9fa3-363ab3e710bc",
-    "last name": "jamal",
-    "name": "nigga 6"
+    "_id": "user3cddc033-2e9e-4d35-89d1-31b0a3243bd5",
+    "first name": "kawhi",
+    "last name": "leonard"
   },
   {
-    "_id": "usere764bad2-cbed-4c4d-be3d-59dda90d5dc1",
-    "last name": "jamal",
-    "name": "nigga 6"
+    "_id": "user1c0bce9b-f86f-421d-a282-da462fd198fd",
+    "first name": "paul",
+    "last name": "george"
   },
   {
-    "_id": "userddf62437-ae60-45c0-b637-91d5b96376d4",
-    "last name": "jamal",
-    "name": "nigga 6"
+    "_id": "user84da3a50-d2c3-48a0-bb0e-e41bcc523bc6",
+    "first name": "klay",
+    "last name": "thompson"
   },
   {
-    "_id": "user833954b0-c671-4c2e-b1a2-a21c2587de31",
-    "last name": "jamal",
-    "name": "nigga 6"
+    "_id": "userb7bf52b5-bf77-47c6-8c42-98f577a6fd35",
+    "first name": "luka",
+    "last name": "doncic"
   },
   {
-    "_id": "user2d3f4519-a866-423c-aa93-fc8d3da8f557",
-    "last name": "aaron gordon",
-    "name": "nigga 42"
+    "_id": "user3129d733-96e4-41c9-8527-43730d2b8fee",
+    "first name": "kyrie",
+    "last name": "irving"
   },
   {
-    "_id": "userc2c76180-8381-4079-b693-3244741d7192",
-    "last name": "jamal",
-    "name": "nigga 3"
+    "_id": "user60d8f0d3-4151-4d7d-87b2-87d3eadfb96d",
+    "first name": "lebron",
+    "last name": "james"
   },
   {
-    "_id": "user26783fe7-f482-4664-b830-4491545777f5",
-    "last name": "jamal",
-    "name": "nigga 3"
+    "_id": "user985a1e44-6032-4a02-8192-d312490cde20",
+    "first name": "ja",
+    "last name": "morant"
   },
   {
-    "_id": "user73f7a659-62ca-45dc-b083-f293313400db",
-    "last name": "jamal murray",
-    "name": "nigga 6"
+    "_id": "user3f03f7e0-5664-483b-b5f7-2fe987bbf581",
+    "first name": "tracy",
+    "last name": "mcgrady"
   },
   {
-    "_id": "user36ac7542-5ce3-447f-b289-563ed2b967da",
-    "last name": "jamal murray",
-    "name": "nigga 6"
+    "_id": "useraaa4d5d1-5f47-4b5d-9f64-a0fa495df0ef",
+    "first name": "malik",
+    "last name": "monk"
   },
   {
-    "_id": "user42c145e6-bdf6-45e3-a1a5-d4185024b43f",
-    "last name": "jamal murray",
-    "name": "nigga 69"
+    "_id": "user106d5230-cb2d-410c-9dd1-c048de7c9cf0",
+    "first name": "anthony",
+    "last name": "edwards"
   },
   {
-    "_id": "user5646fc53-113a-4c47-8bd0-3526a9628434",
-    "last name": "jamal murray",
-    "name": "nigga 69"
+    "_id": "user8f60c182-b0b9-4347-a8c2-5c49adb7c745",
+    "first name": "micheal 'we have jokic for passing'",
+    "last name": "porter jr."
   },
   {
-    "_id": "user8db26414-609c-4a9f-8c92-43453a008987",
-    "last name": "bron",
-    "name": "nigga 71"
+    "_id": "user38e627ce-a714-4ad0-b3e6-b11eb131b3d6",
+    "first name": "micheal 'should have brought your own ball'",
+    "last name": "porter jr."
+  },
+  {
+    "_id": "user1fb2aa27-1d36-4ae8-98c5-daded1559a7f",
+    "first name": "micheal 'the posession ends here'",
+    "last name": "porter jr."
+  },
+  {
+    "_id": "user19e84ef0-894e-4854-b4e5-0e3a40b24948",
+    "first name": "nikola",
+    "last name": "jokic"
   }
 ]
