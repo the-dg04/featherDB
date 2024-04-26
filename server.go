@@ -15,7 +15,7 @@ var PORT int=6969 // Specify port here
 var data []map[string]string
 
 func updateDB(){
-    new_data,_:=json.Marshal(data)
+    new_data,_:=json.MarshalIndent(data,"","\t")
     fo,_:=os.Create("db.json")
     fo.WriteString(string(new_data))
     fo.Close()
