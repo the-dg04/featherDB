@@ -10,7 +10,7 @@ Install dependencies ```github.com/gin-gonic/gin``` and ```github.com/google/uui
 
 #### Run shit
 
-specify ```PORT``` in ```server.go``` to run on a sutom port (default: 6969)
+specify ```PORT``` in ```server.go``` to run on a custom port (default: 6969)
 
 ```bash
 go run .
